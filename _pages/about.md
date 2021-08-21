@@ -4,26 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hi, i'm Paul-Henri ! I try to be a software developper on a daily basis and when comes the weekend i enjoy riding, brewing beers and messing with wrenches and ratchets. 
+For a living i act as the main developer of the ERP software SIRIUS, aimed at chemicals, aromatics and perfumes industries. On my free time i like to learn new things and try new projects on subjects i do not really encounter in my daily work.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
-
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## Things i know and i like to use 
+* Rust 
+* SQL (90% of it by SQL Server)
+* Javascript 
+* HTML / CSS 
+* Linux / Manjaro (I'll admit, i blew up an Arch install and tried Manjaro, sticked with it because it works :) )
+* Windev Wlangage (For work)
