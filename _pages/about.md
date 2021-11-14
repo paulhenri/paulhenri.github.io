@@ -9,8 +9,11 @@ For a living i act as the main developer of the ERP software SIRIUS, aimed at ch
 
 ## Things i know and i like to use 
 * Rust 
+* Elixir / Phoenix
 * SQL (90% of it by SQL Server)
 * Javascript 
 * HTML / CSS 
 * Linux / Manjaro (I'll admit, i blew up an Arch install and tried Manjaro, sticked with it because it works :) )
 * Windev Wlangage (For work)
+* I also try to help translating lessons from ![https://elixirschool.com/](Elixir School) in French
+
