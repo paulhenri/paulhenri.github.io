@@ -12,7 +12,7 @@ SectionPageMenu="main"
   weight = -110
 [[menu.main]]
   identifier = 'links'
-  name = 'Links'
+  name = 'Useful links'
   title = 'links'
   url = '/links/'
   weight = -110
