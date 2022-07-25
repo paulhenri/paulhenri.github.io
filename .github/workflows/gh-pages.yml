@@ -30,4 +30,5 @@ jobs:
           github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_branch: master
           publish_dir: ./public
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
