@@ -20,27 +20,17 @@ avatar: /images/icone_website.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: paulhenri.bonnement@gmail.com
-  facebook:
-  flickr:
   github: github.com/paulhenri
-  instagram:
-  linkedin: 
-  pinterest:
   rss: rss
-  twitter: 
-  stackoverflow: 
-  youtube: 
-  googleplus: 
-  playconsole:
+
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+google_analytics: 
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
