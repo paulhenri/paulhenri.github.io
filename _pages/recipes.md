@@ -17,7 +17,7 @@ This section has no other way than storing recipes for me instead of storing the
   {% for page in site.pages %}
     {% if page.resource == true %}
       {% for pc in page.categories %}
-        {% if pc == "recipes" %}
+        {% if pc == cat %}
           <li><a href="{{ page.url }}">{{ page.title }}</a></li>
         {% endif %}   <!-- cat-match-p -->
       {% endfor %}  <!-- page-category -->
