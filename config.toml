@@ -14,5 +14,5 @@ SectionPageMenu="main"
   identifier = 'links'
   name = 'Useful links'
   title = 'links'
-  url = '/links/'
+  url = '/links/index'
   weight = -110

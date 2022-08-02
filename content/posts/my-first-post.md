@@ -10,3 +10,5 @@ tags:
 
 ## Trying out Hugo !
 
+Just some guy trying Hugo to make a personnal website with Github pages. Nothing fancy, nothing revolutionnary.
+
